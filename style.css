@@ -4,4 +4,11 @@ h1 {
 
 p {
     background-color: grey;
+    h2 {
+        color: darkgray;
+    }
+
+p {
+    color: black
+}
 }
